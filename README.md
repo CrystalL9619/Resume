@@ -6,10 +6,11 @@
 |------|-----|------------|
 | Null | Null| Null |
 ## education
-Bacholer of Medicine-Fujian traditional Medicine Univercity
-Healthcare Administration-St.Lawrence College
+1. Bacholer of Medicine-Fujian traditional Medicine Univercity
+2. Healthcare Administration-St.Lawrence College
 ## work experience
 Dr.Lin Mu Dentistry
 ## contact
-liuhanzecrystal@gmail.com
+1. liuhanzecrystal@gmail.com
+2. [facebook](https://www.facebook.com/)
 

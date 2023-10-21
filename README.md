@@ -1,6 +1,6 @@
 # Hanze Liu
 ## about
-![My profile image](me.jpg)
+![My profile image](logo.png)
 ## projects
 | Title| URL | Technology |
 |------|-----|------------|
